@@ -10,14 +10,9 @@ I also bring strong expertise in MS Office tools — Word, Excel, PowerPoint, an
 
 I’m always eager to collaborate, learn new technologies, and contribute to impactful projects.
 
-Skills:
-- Languages: Python, Kotlin, Java, C; 
-- Frameworks & Tools: FastAPI, Jetpack Compose, React, Firebase, OpenMP, MPI; 
-- Other: Git, GitHub, VS Code, SQLite, Firestore, Cloud Storage
-- MS Office
+Skills: - Languages: Python, Kotlin, Java, C; Frameworks & Tools: FastAPI, Jetpack Compose, React, Firebase, OpenMP, MPI; Other: Git, GitHub, VS Code, SQLite, Firestore, Cloud Storage
 
 - 🔭 I’m currently working on Insygen as a project coordinator 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Ibraheem4040/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ibraheemahmed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ibraheem.ahmed.3572)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ibraheem_ibu1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/ibraheem_ibu)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ibraheem4040)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ibraheemahmed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ibraheem.ahmed.3572)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ibraheem_ibu1/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ibraheem_ibu)  
