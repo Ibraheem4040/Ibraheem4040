@@ -1,7 +1,6 @@
-(https://media.licdn.com/dms/image/v2/D5616AQFiXPjFjdJwsA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728859683961?e=1755129600&v=beta&t=WkR7Th03ZhMgR6qxbddeLh8xCgE_v-l6CWjSh8yJu-w)
+![MSc in Computing Science student at Griffith College Dublin](https://media.licdn.com/dms/image/v2/D5616AQFiXPjFjdJwsA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728859683961?e=1755129600&v=beta&t=WkR7Th03ZhMgR6qxbddeLh8xCgE_v-l6CWjSh8yJu-w)
 ### Hi there 👋, my name is Md Ibrahim
 #### MSc in Computing Science student at Griffith College Dublin
-![MSc in Computing Science student at Griffith College Dublin]
 
 I’m passionate about IT Business Development, Bid/Tender Coordinator, Project Management, software development, cloud platforms, and real-time applications. I have hands-on experience with Python, Kotlin (Jetpack Compose), Java, React, and Firebase, and I enjoy building practical, user-focused applications.
 
@@ -12,10 +11,10 @@ I also bring strong expertise in MS Office tools — Word, Excel, PowerPoint, an
 I’m always eager to collaborate, learn new technologies, and contribute to impactful projects.
 
 Skills: 
-- Languages: Python, Kotlin, Java, C; 
+- Languages: Python, Kotlin, Java, C;
 - Frameworks & Tools: FastAPI, Jetpack Compose, React, Firebase, OpenMP, MPI;
 - Other: Git, GitHub, VS Code, SQLite, Firestore, Cloud Storage
-- MS Office Applications
+- MS Office (Word, Excel, Power Point, Outlook)
 
 - 🔭 I’m currently working on Insygen as a project coordinator 
 
