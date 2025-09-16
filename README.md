@@ -1,4 +1,4 @@
-![MSc in Computing Science student at Griffith College Dublin][[(https://media.licdn.com/dms/image/v2/D5616AQFiXPjFjdJwsA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728859683961?e=1755129600&v=beta&t=WkR7Th03ZhMgR6qxbddeLh8xCgE_v-l6CWjSh8yJu-w)](https://www.linkedin.com/in/ibraheemahmed/overlay/background-image/)](https://www.linkedin.com/in/ibraheemahmed/overlay/background-image/)
+[![MSc in Computing Science student at Griffith College Dublin](https://media.licdn.com/dms/image/v2/D5616AQFiXPjFjdJwsA/profile-displaybackgroundimage-shrink_350_1400/0/1728859683961?e=1755129600&v=beta&t=WkR7Th03ZhMgR6qxbddeLh8xCgE_v-l6CWjSh8yJu-w)](https://www.linkedin.com/in/ibraheemahmed/overlay/background-image/)
 ### Hi there 👋, my name is Md Ibrahim
 #### MSc in Computing Science student at Griffith College Dublin
 
